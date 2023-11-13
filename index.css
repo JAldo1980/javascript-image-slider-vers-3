@@ -73,3 +73,21 @@ select {
   }
 }
 /* end of css reset */
+
+.container {
+  padding-top: 1em;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.image-size {
+  width: 400px;
+  height: 400px;
+}
+
+.buttons-box-el {
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
